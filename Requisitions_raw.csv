@@ -1,0 +1,301 @@
+﻿Req ID,Req Raised On,Thread,Function,Designation,Grade,Location,Position Type,Replaced Employee ID,Criticality,Hiring Manager ID,Recruiter,SLA (Days),Req Status,Budgeted Max CTC (INR),SLA Status (System)
+REQ_5102,46128,Central,Data & Analytics,Data Scientist,G5,Bengaluru HO,New,,Non-Critical,EMP19317,Divya M,45,Open,1944000,Open - Breached
+REQ_5105,46139,Intracity,Sales,Sales Associate,G1,Delhi NCR,Replacement,EMP11822,Non-Critical,EMP33008,Rhea Kapoor,30,Closed - Joined,384000,Within SLA
+REQ_5106,46162,Intracity,Sales,Sales Executive,G2,Mumbai,Replacement,EMP30744,Non-Critical,EMP11356,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5109,46234,Geo Expansion,Category & Supply,Senior Category Manager,G6,Bengaluru HO,New,,Non-Critical,EMP21454,Arnav Gupta,60,Offer Accepted,2040000,Within SLA
+REQ_5112,46288,Inter City,Sales,Sales Executive,G2,Ahmedabad,New,,Non-Critical,EMP31067,Rhea Kapoor,30,Offer Accepted,504000,Within SLA
+REQ_5114,46194,Intracity,Category & Supply,Director - Category,G8,Bengaluru HO,New,,Critical,EMP23152,Vikram Nair,60,Closed - Joined,4080000,Within SLA
+REQ_5115,46268,Enterprise,Sales,Senior Sales Executive,G3,Chennai,Replacement,EMP25584,Non-Critical,EMP39880,Karan Bhat,45,Offer Accepted,720000,Breached
+REQ_5116,46173,Intercity,Operations,Senior Business Associate,G2,Ahmedabad,New,,Non-Critical,EMP39763,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5119,46122,Intracity,Operations,Trainee Business Associate,TBA,Bengaluru,New,,Non-Critical,EMP10289,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5122,46143,Geo Expansion,Category & Supply,Senior Supply Executive,G3,Ahmedabad,New,,Non-Critical,EMP21454,Vikram Nair,45,Closed - Joined,720000,Within SLA
+REQ_5124,46202,Central,Engineering,Software Engineer I,G3,Bengaluru HO,New,,Non-Critical,EMP28665,Vikram N,45,Joined,972000,Within SLA
+REQ_5127,46266,Geo Expansion,Category & Supply,Category Analyst,G4,Delhi NCR,New,,Non-Critical,EMP21454,Rhea Kapoor,45,Offer Accepted,1020000,Breached
+REQ_5128,46297,Central,Engineering,Software Engineer I,G3,Bengaluru HO,New,,Non-Critical,EMP27341,Vikram Nair,45,Open,972000,Open - Within SLA
+REQ_5130,46232,Central,Product,Associate Product Manager,G4,Bengaluru HO,New,,Non-Critical,EMP25467,Vikram Nair,45,Closed - Joined,1377000,Within SLA
+REQ_5132,46137,Intracity,Customer Support,Director - CX,G8,Bengaluru HO,Replacement,EMP36351,Critical,EMP18568,Vikram Nair,60,OPEN,4080000,Open - Breached
+REQ_5134,46272,Intercity,Operations,Senior Business Associate,G2,Bengaluru,Replacement,EMP29625,Non-Critical,EMP20336,Tanvi Joshi,30,Open,504000,Open - Breached
+REQ_5135,46173,Intracity,Operations,Senior Business Associate,G2,Mumbai,New,,Non-Critical,EMP24154,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5136,46167,Intercity,Operations,Operations Executive,G3,Kolkata,Replacement,EMP29735,Non-Critical,EMP12361,Divya Menon,45,Closed - Joined,720000,Within SLA
+REQ_5139,10/05/2026,Central,Legal & Compliance,Compliance Executive,G3,Bengaluru HO,New,,Non-Critical,EMP34590,Karan Bhat,45,Closed - Joined,720000,Within SLA
+REQ_5140,46221,Central,Engineering,Senior Software Engineer,G5,Bengaluru HO,Replacement,EMP29465,Non-Critical,EMP11273,Meghna Rao,45,Closed - Joined,1750000,Within SLA
+REQ_5143,46123,Intra City,Operations,Operations Executive,G3,Mumbai,Replacement,EMP32927,Non-Critical,EMP33204,Imran Sheikh,45,Closed - Joined,720000,Within SLA
+REQ_5146,46205,Central,People & Culture,Senior HR Generalist,G4,Bengaluru HO,New,,Non-Critical,EMP16881,Imran S,45,Closed - Joined,1020000,Within SLA
+REQ_5147,46235,Geo Expansion,Operations,Business Associate,G1,Bengaluru,Replacement,EMP31092,Non-Critical,EMP23577,Arnav Gupta,30,Closed - Joined,384000,Within SLA
+REQ_5150,46163,Intracity,Operations,Operations Executive,G3,Pune,New,,Non-Critical,EMP10289,Vikram Nair,45,Closed - Joined,720000,Within SLA
+REQ_5152,46179,Packers & Movers,Operations,Trainee Business Associate,TBA,Chennai,New,,Non-Critical,EMP26339,Karan Bhat,30,Closed - Joined,312000,Within SLA
+REQ_5154,46130,Central,Product,Senior Product Manager,G6,Bengaluru HO,New,,Critical,EMP16341,Divya M,60,Offer Accepted,2754000,Breached
+REQ_5157,46199,Central,People & Culture,HR Generalist,G3,Bengaluru HO,New,,Non-Critical,EMP20300,Vikram Nair,45,Offer Accepted,720000,Within SLA
+REQ_5158,46129,Intracity,Operations,Business Associate,G1,Hyderabad,New,,Non-Critical,EMP30224,Arnav Gupta,30,Closed - Joined,384000,Within SLA
+REQ_5161,46214,Packers & Movers,Customer Support,Senior Support Associate,G2,Delhi NCR,New,,Non-Critical,EMP15006,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5162,46169,Packers & Movers,Customer Support,Support Associate,G1,Mumbai,New,,Non-Critical,EMP11841,Rhea Kapoor,30,Open,384000,Open - Breached
+REQ_5164,46138,Inter City,Category & Supply,Senior Category Manager,G6,Bengaluru HO,New,,Non-Critical,EMP21454,Divya Menon,60,Offer Accepted,2040000,Breached
+REQ_5167,46137,Central,People & Culture,Senior HR Generalist,G4,Bengaluru HO,Replacement,EMP13615,Non-Critical,EMP23021,Imran Sheikh,45,Closed - Joined,1020000,Breached
+REQ_5168,46251,Packers & Movers,Operations,Trainee Business Associate,TBA,Ahmedabad,New,,Non-Critical,EMP35923,rhea kapoor,30,Open,312000,Open - Breached
+REQ_5169,46222,Intracity,Operations,Business Associate,G1,Hyderabad,Replacement,EMP21248,Non-Critical,EMP33204,Rhea Kapoor,30,Closed-Joined,384000,Within SLA
+REQ_5172,46217,Packers & Movers,Customer Support,Trainee Business Associate,TBA,Mumbai,Replacement,EMP36247,Non-Critical,EMP15006,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5173,46225,Enterprise,Operations,Trainee Business Associate,TBA,Mumbai,Replacement,EMP10662,Non-Critical,EMP16738,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5176,46301,Intracity,Operations,Operations Executive,G3,Pune,New,,Non-Critical,EMP38016,Imran Sheikh,45,Open,720000,Open - Within SLA
+REQ_5179,46287,Packers & Movers,Category & Supply,Senior Supply Executive,G3,Ahmedabad,New,,Non-Critical,EMP17656,Imran Sheikh,45,Open,720000,Open - Within SLA
+REQ_5182,46249,Central,Engineering,Software Engineer II,G4,Bengaluru HO,New,,Non-Critical,EMP13605,Vikram Nair,45,On Hold,1239000,NA
+REQ_5184,46199,Intracity,Operations,Trainee Business Associate,TBA,Kolkata,New,,Non-Critical,EMP16929,Arnav Gupta,30,On Hold,312000,NA
+REQ_5185,46172,Enterprise,Category & Supply,Senior Category Manager,G6,Bengaluru HO,Replacement,EMP38852,Non-Critical,EMP34516,Rhea Kapoor,60,Offer Accepted,2040000,Breached
+REQ_5186,46175,Enterprise,Operations,Senior Business Associate,G2,Delhi NCR,Replacement,EMP19610,Non-Critical,EMP27214,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5189,46144,Packers & Movers,Sales,Manager - Sales,G5,Delhi NCR,New,,#N/A,EMP23462,Imran Sheikh,45,Closed - Joined,1440000,Within SLA
+REQ_5190,46286,Intracity,Operations,Operations Executive,G3,Lucknow,Replacement,EMP32221,Non-Critical,EMP38654,Imran Sheikh,45,Open,720000,Open - Within SLA
+REQ_5192,46198,Geo Expansion,Operations,Business Associate,G1,Delhi NCR,Replacement,EMP32281,Non-Critical,EMP24611,Arnav Gupta,30,Closed - Joined,384000,Within SLA
+REQ_5195,46217,Central,Engineering,Software Engineer II,G4,Bengaluru HO,Replacement,EMP14594,Non-Critical,EMP34332,Vikram Nair,45,Offer Accepted,1239000,Within SLA
+REQ_5197,46176,Central,Engineering,Engineering Manager,G7,Bengaluru HO,Replacement,EMP37143,Critical,EMP14084,Rhea Kapoor,60,Closed - Joined,3888000,Within SLA
+REQ_5200,46114,Intracity,Sales,Assistant Manager - Sales,G4,Mumbai,New,,Non-Critical,EMP36555,Divya Menon,45,Closed - Joined,1020000,Within SLA
+REQ_5201,46161,P&M,Operations,Senior Manager - Operations,G6,Bengaluru HO,New,,,EMP26339,Arnav Gupta,60,Closed - Joined,2040000,Breached
+REQ_5204,46223,Packers & Movers,Sales,Manager - Sales,G5,Hyderabad,Replacement,EMP34585,Non-Critical,EMP10487,Karan Bhat,45,Offer Accepted,1440000,Breached
+REQ_5205,46305,Intercity,Operations,Business Associate,G1,Hyderabad,Replacement,EMP38748,Non-Critical,EMP20887,Rhea Kapoor,30,Open,384000,Open - Within SLA
+REQ_5207,46172,Central,Engineering,Software Engineer I,G3,Bengaluru HO,New,,Non-Critical,EMP14084,Divya Menon,45,Closed - Joined,972000,Within SLA
+REQ_5208,46268,Enterprise,Operations,Trainee Business Associate,TBA,Kolkata,New,,Non-Critical,EMP16738,Tanvi,30,Closed - Joined,312000,Within SLA
+REQ_5211,46151,Intercity,Operations,Senior Business Associate,G2,Hyderabad,New,,Non-Critical,EMP33620,Rhea Kapoor,30,Open,504000,Open - Breached
+REQ_5213,46232,Intracity,Operations,Assistant Manager - Operations,G4,Mumbai,Replacement,EMP33344,Non-Critical,EMP24154,Divya Menon,45,Offer Accepted,1020000,Breached
+REQ_5215,46286,Central,Engineering,Software Engineer I,G3,Bengaluru HO,New,,Non-Critical,EMP14084,Meghna Rao,45,Offer Accepted,972000,Within SLA
+REQ_5217,46134,Packers & Movers,Operations,Operations Executive,G3,Delhi NCR,Replacement,EMP13365,Non-Critical,EMP26091,Karan Bhat,45,Closed - Joined,720000,Within SLA
+REQ_5218,46251,Central,Data & Analytics,Senior Data Analyst,G4,Bengaluru HO,New,,Non-Critical,EMP36711,Rhea Kapoor,45,Offer Accepted,1377000,Breached
+REQ_5220,46268,Intercity,Operations,Business Associate,G1,Bengaluru,Replacement,EMP22795,Non-Critical,EMP33620,Karan Bhat,30,Closed - Joined,384000,Within SLA
+REQ_5223,46174,Intracity,Sales,Sales Associate,G1,Jaipur,New,,Non-Critical,EMP33008,Rhea Kapoor,30,Closed - Joined,384000,Within SLA
+REQ_5225,46240,Intracity,Sales,Sales Associate,G1,Jaipur,Replacement,EMP14780,,EMP23746,Tanvi Joshi,30,Closed - Joined,384000,Within SLA
+REQ_5227,46302,Central,Engineering,Senior Software Engineer,G5,Bengaluru HO,New,,Non-Critical,EMP34332,Vikram N,45,Open,1750000,Open - Within SLA
+REQ_5228,46286,Intracity,Customer Support,Support Associate,G1,Jaipur,New,,Non-Critical,EMP32603,Rhea Kapoor,30,Offer Accepted,384000,Within SLA
+REQ_5229,46155,Packers & Movers,Customer Support,Trainee Business Associate,TBA,Lucknow,New,,Non-Critical,EMP11841,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5232,46215,Intracity,Customer Support,Senior Support Associate,G2,Chennai,New,,Non-Critical,EMP26286,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5234,46254,Intracity,Operations,Business Associate,G1,Delhi NCR,New,,Non-Critical,EMP25770,Rhea Kapoor,30,Closed - Joined,384000,Within SLA
+REQ_5235,46284,Packers & Movers,Category & Supply,Senior Supply Executive,G3,Mumbai,New,,Non-Critical,EMP19427,Karan Bhat,45,Offer Accepted,720000,Within SLA
+REQ_5236,46209,Intercity,Operations,Trainee Business Associate,TBA,Pune,Replacement,EMP26894,Non-Critical,EMP32993,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5238,46193,Intercity,Operations,Trainee Business Associate,TBA,Pune,Replacement,EMP24308,Non-Critical,EMP33620,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5239,46178,Intracity,Sales,Sales Associate,G1,Delhi NCR,Replacement,EMP30702,Non-Critical,EMP31787,Karan Bhat,30,Closed - Joined,384000,Within SLA
+REQ_5242,46289,Central,Legal & Compliance,Compliance Executive,G3,Bengaluru HO,Replacement,EMP24185,Non-Critical,EMP28585,Tanvi Joshi,45,Open,720000,Open - Within SLA
+REQ_5244,46222,Intracity,Customer Support,Support Associate,G1,Pune,Replacement,EMP29917,Non-Critical,EMP32603,Rhea Kapoor,30,Closed - Joined,384000,Within SLA
+REQ_5245,46145,Geo Expansion,Sales,Sales Associate,G1,Hyderabad,Replacement,EMP30190,Non-Critical,EMP28230,Rhea Kapoor,30,Open,384000,Open - Breached
+REQ_5246,46137,Intra City,Operations,Senior Business Associate,G2,Delhi NCR,New,,Non-Critical,EMP33204,Tanvi Joshi,30,OPEN,504000,Open - Breached
+REQ_5249,46178,Central,Engineering,Senior Engineering Manager,G8,Bengaluru HO,New,,Critical,EMP14084,Meghna Rao,60,Closed - Joined,5508000,Within SLA
+REQ_5251,46161,Central,People & Culture,HR Generalist,G3,Bengaluru HO,New,,Non-Critical,EMP10468,Imran Sheikh,45,Closed - Joined,720000,Within SLA
+REQ_5254,46124,Packers & Movers,Operations,Senior Business Associate,G2,Chennai,New,,Non-Critical,EMP26091,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5256,46144,Intracity,Sales,Assistant Manager - Sales,G4,Lucknow,Replacement,EMP01085,Non-Critical,EMP33921,Karan Bhat,45,Closed - Joined,1020000,Within SLA
+REQ_5259,46218,Packers and Movers,Sales,Senior Sales Executive,G3,Bengaluru,New,,Non-Critical,EMP15803,Divya Menon,45,Closed - Joined,720000,Breached
+REQ_5262,46141,Intracity,Sales,Assistant Manager - Sales,G4,Jaipur,New,,Non-Critical,EMP23746,Imran Sheikh,45,Open,1020000,Open - Breached
+REQ_5263,46292,Intercity,Operations,Senior Business Associate,G2,Delhi NCR,New,,Non-Critical,EMP12224,Tanvi Joshi,30,Closed - Joined,504000,Within SLA
+REQ_5265,46257,Enterprise,Operations,Senior Business Associate,G2,Kolkata,New,,Non-Critical,EMP27514,Karan Bhat,30,Open,504000,Open - Breached
+REQ_5266,46150,Intercity,Operations,Senior Business Associate,G2,Lucknow,Replacement,EMP26102,Non-Critical,EMP21444,Tanvi Joshi,30,Closed - Joined,504000,Within SLA
+REQ_5268,46305,Central,Engineering,Engineering Manager,G7,Bengaluru HO,Replacement,EMP36304,Critical,EMP34332,Vikram Nair,60,Open,3888000,Open - Within SLA
+REQ_5269,46152,Intracity,Customer Support,Team Lead - Support,G4,Kolkata,New,,Non-Critical,EMP13745,Vikram Nair,45,Closed - Joined,1020000,Within SLA
+REQ_5271,46215,Geo Expansion,Operations,Operations Executive,G3,Mumbai,New,,Non-Critical,EMP13184,Rhea Kapoor,45,Offer Accepted,720000,Within SLA
+REQ_5273,46152,Intracity,Sales,Senior Sales Executive,G3,Bengaluru,Replacement,EMP03635,Non-Critical,EMP23746,Karan Bhat,45,Closed - Joined,720000,Within SLA
+REQ_5275,46224,Packers & Movers,Sales,Sales Associate,G1,Hyderabad,New,,Non-Critical,EMP32674,Rhea Kapoor,30,Open,384000,Open - Breached
+REQ_5277,46271,Enterprise,Operations,Senior Business Associate,G2,Delhi NCR,Replacement,EMP35023,Non-Critical,EMP27214,Rhea Kapoor,30,Open,504000,Open - Breached
+REQ_5278,46284,Intracity,Customer Support,Trainee Business Associate,TBA,Kolkata,Replacement,EMP17040,Non-Critical,EMP26194,Arnav Gupta,30,Closed - Joined,312000,Within SLA
+REQ_5279,46171,Enterprise ,Operations,Senior Business Associate,G2,Lucknow,Replacement,EMP12308,Non-Critical,EMP27514,Imran Sheikh,30,Closed - Joined,504000,Within SLA
+REQ_5282,13/06/2026,Intracity,Operations,Trainee Business Associate,TBA,Lucknow,Replacement,EMP14102,Non-Critical,EMP33204,Tanvi,30,Closed - Joined,312000,Within SLA
+REQ_5284,46207,Intracity,Operations,Senior Business Associate,G2,Kolkata,New,,Non-Critical,EMP25332,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5287,46182,Intercity,Sales,Senior Sales Executive,G3,Pune,Replacement,EMP19398,Non-Critical,EMP25487,Divya Menon,45,Closed - Joined,720000,Within SLA
+REQ_5289,46136,Intracity,Operations,Senior Business Associate,G2,Mumbai,New,,Non-Critical,EMP38016,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5291,46260,Packers & Movers,Customer Support,Trainee Business Associate,TBA,Kolkata,Replacement,EMP31410,Non-Critical,EMP36019,Tanvi Joshi,30,Closed - Joined,312000,Within SLA
+REQ_5293,46138,Intracity,Operations,Trainee Business Associate,TBA,Delhi NCR,Replacement,EMP36324,Non-Critical,EMP25332,Rhea,30,Closed - Joined,312000,Within SLA
+REQ_5295,46310,Enterprise,Operations,Business Associate,G1,Pune,New,,Non-Critical,EMP27214,Imran Sheikh,30,Offer Accepted,384000,Within SLA
+REQ_5297,46273,Packers & Movers,Customer Support,Senior Support Associate,G2,Hyderabad,Replacement,EMP33087,Non-Critical,EMP38545,Arnav Gupta,30,Closed - Joined,504000,Within SLA
+REQ_5298,46192,Enterprise,Operations,Trainee Business Associate,TBA,Delhi NCR,New,,Non-Critical,EMP16738,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5299,46207,Enterprise,Sales,Assistant Manager - Sales,G4,Pune,New,,Non-Critical,EMP19035,Rhea,45,Closed - Joined,1020000,Breached
+REQ_5301,46218,Central,Engineering,Software Engineer II,G4,Bengaluru HO,New,,Non-Critical,EMP32822,Divya Menon,45,Closed - Joined,1239000,Within SLA
+REQ_5304,46161,Intracity,Customer Support,Support Associate,G1,Delhi NCR,Replacement,EMP15150,Non-Critical,EMP13745,Rhea Kapoor,30,Closed - Joined,384000,Within SLA
+REQ_5306,46120,Intracity,Sales,Sales Executive,G2,Ahmedabad,Replacement,EMP07605,Non-Critical,EMP36555,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5309,46267,Packers & Movers,Sales,Senior Sales Executive,G3,Ahmedabad,Replacement,EMP12182,Non-Critical,EMP22597,Tanvi Joshi,45,Offer Accepted,720000,Breached
+REQ_5310,46202,Central,Engineering,Engineering Manager,G7,Bengaluru HO,New,,,EMP14084,Vikram Nair,60,Offer Accepted,3888000,Breached
+REQ_5311,46229,Central,Design & Research,Product Designer,G4,Bengaluru HO,New,,Non-Critical,EMP28705,Vikram Nair,45,Offer Accepted,1377000,Within SLA
+REQ_5312,46229,Geo-Expansion,Sales,Senior Sales Executive,G3,Mumbai,Replacement,EMP28852,Non-Critical,EMP17414,Divya M,45,Offer Accepted,720000,Within SLA
+REQ_5313,46309,Packers & Movers,Operations,Senior Business Associate,G2,Lucknow,Replacement,EMP29351,Non-Critical,EMP17984,Imran Sheikh,30,Offer accepted,504000,Within SLA
+REQ_5316,46135,Central,Finance,Senior Finance Manager,G6,Bengaluru HO,New,,Non-Critical,EMP20279,Rhea K,60,Closed - Joined,2040000,Within SLA
+REQ_5317,46201,Packers & Movers,Category & Supply,Senior Supply Executive,G3,Lucknow,New,,Non-Critical,EMP27320,Tanvi Joshi,45,Closed - Joined,720000,Within SLA
+REQ_5318,46204,Intercity,Operations,Operations Executive,G3,Kolkata,Replacement,EMP32344,Non-Critical,EMP32646,Tanvi Joshi,45,Offer Accepted,720000,Within SLA
+REQ_5320,46131,Intracity,Operations,Senior Business Associate,G2,Mumbai,New,,Non-Critical,EMP11593,Arnav Gupta,30,Closed - Joined,504000,Within SLA
+REQ_5323,46266,Intercity,Customer Support,Support Associate,G1,Mumbai,New,,Non-Critical,EMP30591,Tanvi,30,Closed - Joined,384000,Within SLA
+REQ_5324,46179,Packers & Movers,Sales,Assistant Manager - Sales,G4,Ahmedabad,New,,Non-Critical,EMP11978,Rhea Kapoor,45,Open,1020000,Open - Breached
+REQ_5325,46183,Intercity,Category & Supply,Senior Supply Executive,G3,Bengaluru,New,,Non-Critical,EMP10897,Tanvi Joshi,45,Closed - Joined,720000,Within SLA
+REQ_5326,46230,Intercity,Sales,Sales Executive,G2,Bengaluru,New,,Non-Critical,EMP28563,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5329,46220,Intercity,Operations,Trainee Business Associate,TBA,Kolkata,New,,Non-Critical,EMP33064,Arnav Gupta,30,Closed - Joined,312000,Within SLA
+REQ_5330,46136,Central,Data & Analytics,Data Analyst,G3,Bengaluru HO,New,,Non-Critical,EMP36711,Vikram Nair,45,Closed - Joined,972000,Within SLA
+REQ_5333,46161,Intracity,Customer Support,Senior Support Associate,G2,Pune,New,,Non-Critical,EMP26194,Karan Bhat,30,Closed - Joined,504000,Within SLA
+REQ_5336,46298,Intracity,Operations,Trainee Business Associate,TBA,Kolkata,Replacement,EMP35958,Non-Critical,EMP10289,Rhea Kapoor,30,Offer Accepted,312000,Within SLA
+REQ_5339,46158,Geo Expansion,Sales,Sales Executive,G2,Kolkata,New,,Non-Critical,EMP39028,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5342,46176,Geo Expansion,Sales,Senior Sales Executive,G3,Bengaluru,Replacement,EMP06894,Non-Critical,EMP17414,Vikram Nair,45,Closed - Joined,720000,Within SLA
+REQ_5343,46269,Geo Expansion,Customer Support,Support Specialist,G3,Mumbai,Replacement,EMP36773,Non-Critical,EMP33458,Karan Bhat,45,Open,720000,Open - Breached
+REQ_5344,46156,Intercity,Sales,Sales Associate,G1,Mumbai,New,,Non-Critical,EMP10448,Tanvi Joshi,30,Closed - Joined,384000,Within SLA
+REQ_5347,46290,Central,Product,Senior Product Manager,G6,Bengaluru HO,New,,Critical,EMP10681,Divya Menon,60,Open,2754000,Open - Within SLA
+REQ_5350,46220,Packers & Movers,Operations,Assistant Manager - Operations,G4,Chennai,Replacement,EMP26404,Non-Critical,EMP14467,Rhea Kapoor,45,Offer accepted,1020000,Within SLA
+REQ_5351,46133,Packers & Movers,Operations,Business Associate,G1,Hyderabad,Replacement,EMP17468,Non-Critical,EMP17984,Karan Bhat,30,Closed - Joined,384000,Within SLA
+REQ_5354,46277,Packers and Movers,Customer Support,Support Associate,G1,Chennai,Replacement,EMP15819,Non-Critical,EMP15006,Rhea Kapoor,30,Closed - Joined,384000,Within SLA
+REQ_5355,46162,Central,Engineering,Staff Engineer,G6,Bengaluru HO,Replacement,EMP02748,Critical,EMP12916,Meghna Rao,60,Open,2479000,Open - Breached
+REQ_5358,46126,Central,Finance,Finance Analyst,G3,Bengaluru HO,New,,Non-Critical,EMP17675,Rhea Kapoor,45,Closed - Joined,720000,Breached
+REQ_5360,46244,Geo Expansion,Operations,Operations Executive,G3,Ahmedabad,New,,Non-Critical,EMP24611,Rhea Kapoor,45,Offer Accepted,720000,Breached
+REQ_5363,46149,Intercity,Operations,Senior Business Associate,G2,Lucknow,New,,Non-Critical,EMP32993,Karan,30,Closed - Joined,504000,Within SLA
+REQ_5365,46191,Geo Expansion,Category & Supply,Senior Supply Executive,G3,Chennai,Replacement,EMP26903,#N/A,EMP21454,Rhea Kapoor,45,Closed - Joined,720000,Within SLA
+REQ_5366,46201,Intercity,Sales,Manager - Sales,G5,Bengaluru,New,,Non-Critical,EMP10448,Vikram N,45,Closed - Joined,1440000,Within SLA
+REQ_5367,46299,Enterprise,Sales,Senior Sales Executive,G3,Delhi NCR,New,,Non-Critical,EMP39880,Vikram Nair,45,Offer Accepted,720000,Within SLA
+REQ_5369,46121,Central,Legal & Compliance,Legal Associate,G4,Bengaluru HO,New,,Non-Critical,EMP31497,Vikram Nair,45,Open,1020000,Open - Breached
+REQ_5370,46117,Central,Engineering,Engineering Manager,G7,Bengaluru HO,Replacement,EMP03610,Critical,EMP14084,Divya Menon,60,Offer Accepted,3888000,Breached
+REQ_5371,46237,central,Legal & Compliance,Associate Director - Legal,G7,Bengaluru HO,New,,Non-Critical,EMP34590,Vikram Nair,60,Offer Accepted,2880000,Within SLA
+REQ_5374,10/10/2026,Enterprise,Operations,Assistant Manager - Operations,G4,Delhi NCR,New,,Non-Critical,EMP16738,Rhea Kapoor,45,Open,1020000,Open - Within SLA
+REQ_5376,46271,Central,Engineering,Senior Engineering Manager,G8,Bengaluru HO,New,,Critical,EMP14084,Vikram Nair,60,Offer Accepted,5508000,Within SLA
+REQ_5378,46287,Central,Engineering,Engineering Manager,G7,Bengaluru HO,Replacement,EMP14275,Critical,EMP14084,Rhea Kapoor,60,Open,3888000,Open - Within SLA
+REQ_5379,46123,Intra City,Operations,Senior Business Associate,G2,Delhi NCR,New,,Non-Critical,EMP28133,Rhea Kapoor,30,Open,504000,Open - Breached
+REQ_5380,46154,Geo Expansion,Operations,Trainee Business Associate,TBA,Delhi NCR,New,,Non-Critical,EMP22008,Karan Bhat,30,Closed - Joined,312000,Within SLA
+REQ_5381,46211,Packers & Movers,Operations,Business Associate,G1,Delhi NCR,New,,Non-Critical,EMP15886,Rhea Kapoor,30,Closed - Joined,384000,Within SLA
+REQ_5383,04/05/2026,Geo Expansion,Operations,Business Associate,G1,Delhi NCR,Replacement,EMP10633,Non-Critical,EMP36692,Rhea Kapoor,30,Closed-Joined,384000,Within SLA
+REQ_5386,46129,Packers & Movers,Category & Supply,Category Analyst,G4,Jaipur,New,,Non-Critical,EMP17539,Vikram Nair,45,Closed - Joined,1020000,Within SLA
+REQ_5389,46263,Intracity,Operations,Manager - Operations,G5,Hyderabad,New,,Non-Critical,EMP24154,Vikram Nair,45,Offer Accepted,1440000,Within SLA
+REQ_5391,46288,Intercity,Sales,Senior Sales Executive,G3,Bengaluru,New,,Non-Critical,EMP22654,Tanvi Joshi,45,Archived,720000,NA
+REQ_5394,46157,Intercity,Customer Support,Trainee Business Associate,TBA,Pune,Replacement,EMP11080,Non-Critical,EMP30591,Imran Sheikh,30,Open,312000,Open - Breached
+REQ_5396,21/08/2026,Intracity,Customer Support,Team Lead - Support,G4,Lucknow,New,,Non-Critical,EMP26286,Divya Menon,45,Closed - Joined,1020000,Within SLA
+REQ_5397,46204,Central,People & Culture,HR Generalist,G3,Bengaluru HO,Replacement,EMP06865,Non-Critical,EMP16881,Rhea Kapoor,45,Closed - Joined,720000,Breached
+REQ_5398,46175,Intracity,Sales,Senior Sales Executive,G3,Hyderabad,New,,Non-Critical,EMP39892,Vikram Nair,45,Closed - Joined,720000,Within SLA
+REQ_5400,46122,Geo Expansion,Operations,Trainee Business Associate,TBA,Delhi NCR,New,,Non-Critical,EMP36692,Arnav Gupta,30,Closed - Joined,312000,Within SLA
+REQ_5402,46218,Intracity,Customer Support,Manager - Support,G5,Delhi NCR,New,,Non-Critical,EMP13745,Tanvi,45,Offer Accepted,1440000,Breached
+REQ_5403,46226,Intercity,Customer Support,Trainee Business Associate,TBA,Pune,New,,Non-Critical,EMP29110,Rhea,30,Closed - Joined,312000,Within SLA
+REQ_5404,46237,Intracity,Category & Supply,Senior Supply Executive,G3,Jaipur,New,,Non-Critical,EMP28891,Rhea Kapoor,45,Offer Accepted,720000,Within SLA
+REQ_5405,46270,Intracity,Category & Supply,Director - Category,G8,Bengaluru HO,New,,Critical,EMP31374,Meghna Rao,60,Open,4080000,Open - Within SLA
+REQ_5408,46123,Intracity,Operations,Trainee Business Associate,TBA,Chennai,New,,Non-Critical,EMP27484,Rhea Kapoor,30,closed - joined,312000,Within SLA
+REQ_5410,46299,Geo Expansion,Customer Support,Trainee Business Associate,TBA,Hyderabad,Replacement,EMP32959,Non-Critical,EMP31354,Rhea Kapoor,30,Offer Accepted,312000,Within SLA
+REQ_5413,46255,Central,Engineering,Engineering Manager,G7,Bengaluru HO,Replacement,EMP15264,Critical,EMP14084,Meghna Rao,60,Archived,3888000,NA
+REQ_5415,46281,Intracity,Sales,Senior Sales Executive,G3,Chennai,New,,Non-Critical,EMP23921,Imran Sheikh,45,Open,720000,Open - Within SLA
+REQ_5417,10/04/2026,Packers & Movers,Customer Support,Support Specialist,G3,Hyderabad,Replacement,EMP08014,Non-Critical,EMP24945,Karan Bhat,45,Closed - Joined,720000,Within SLA
+REQ_5418,46152,Intercity,Customer Support,Trainee Business Associate,TBA,Delhi NCR,New,,Non-Critical,EMP30591,Karan Bhat,30,Closed - Joined,312000,Within SLA
+REQ_5420,46279,Intercity,Operations,Senior Business Associate,G2,Mumbai,New,,Non-Critical,EMP11674,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5423,46303,Central,People & Culture,HR Generalist,G3,Bengaluru HO,New,,Non-Critical,EMP10468,Karan Bhat,45,Open,720000,Open - Within SLA
+REQ_5425,46226,Central,Data & Analytics,Data Analyst,G3,Bengaluru HO,New,,Non-Critical,EMP19317,Vikram Nair,45,Closed - Joined,972000,Within SLA
+REQ_5426,46226,Enterprise,Category & Supply,Associate Director - Category,G7,Bengaluru HO,Replacement,EMP34788,Non-Critical,EMP34516,Divya Menon,60,On Hold,2880000,NA
+REQ_5428,46228,Intercity,Customer Support,Support Associate,G1,Chennai,Replacement,EMP26010,Non-Critical,EMP30591,Tanvi Joshi,30,Closed - Joined,384000,Within SLA
+REQ_5431,46229,Packers & Movers,Customer Support,Manager - Support,G5,Mumbai,New,,Non-Critical,EMP15006,Rhea Kapoor,45,Closed - Joined,1440000,Within SLA
+REQ_5433,10/07/2026,Enterprise,Sales,Senior Sales Executive,G3,Kolkata,Replacement,EMP24975,Non-Critical,EMP19035,Rhea Kapoor,45,Offer Accepted,720000,Within SLA
+REQ_5434,46176,Intercity,Category & Supply,Category Analyst,G4,Mumbai,New,,Non-Critical,EMP31374,Tanvi Joshi,45,Closed - Joined,1020000,Within SLA
+REQ_5437,46155,Central,Product,Product Manager,G5,Bengaluru HO,Replacement,EMP36373,Non-Critical,EMP15354,Vikram Nair,45,Open,1944000,Open - Breached
+REQ_5439,46156,Intracity,Operations,Trainee Business Associate,TBA,Delhi NCR,New,,Non-Critical,EMP24154,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5441,46202,Central,Engineering,Engineering Manager,G7,Bengaluru HO,Replacement,EMP38969,Critical,EMP34332,Divya Menon,60,Closed - Joined,3888000,Within SLA
+REQ_5444,46296,Central,Product,Senior Product Manager,G6,Bengaluru HO,Replacement,EMP25697,Critical,EMP16341,Meghna Rao,60,Open,2754000,Open - Within SLA
+REQ_5445,46203,Intracity,Operations,Operations Executive,G3,Pune,Replacement,EMP13374,Non-Critical,EMP34400,Karan Bhat,45,Closed - Joined,720000,Within SLA
+REQ_5448,46159,Intercity,Operations,Operations Executive,G3,Mumbai,Replacement,EMP12769,Non-Critical,EMP13816,Karan,45,Closed - Joined,720000,Within SLA
+REQ_5451,46230,Enterprise,Operations,Senior Business Associate,G2,Hyderabad,New,,Non-Critical,EMP16738,Karan Bhat,30,Closed - Joined,504000,Within SLA
+REQ_5453,46292,Intercity,Customer Support,Support Specialist,G3,Hyderabad,Replacement,EMP23032,Non-Critical,EMP29110,Tanvi Joshi,45,open,720000,Open - Within SLA
+REQ_5454,24/09/2026,Intercity,Operations,Manager - Operations,G5,Mumbai,New,,Non-Critical,EMP33620,Rhea Kapoor,45,Open,1440000,Open - Within SLA
+REQ_5457,46160,Central,Product,Product Manager,G5,Bengaluru HO,Replacement,EMP08244,Non-Critical,EMP10681,Divya Menon,45,Closed - Joined,1944000,Within SLA
+REQ_5460,46272,Enterprise,Sales,Manager - Sales,G5,Mumbai,Replacement,EMP23794,Non-Critical,EMP21218,Imran Sheikh,45,Offer Accepted,1440000,Within SLA
+REQ_5461,46129,Intercity,Operations,Trainee Business Associate,TBA,Jaipur,Replacement,EMP21225,Non-Critical,EMP33620,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5464,46247,Central,Engineering,Senior Software Engineer,G5,Bengaluru HO,New,,Non-Critical,EMP37986,Rhea Kapoor,45,Offer Accepted,1750000,Breached
+REQ_5466,46270,Intercity,Operations,Senior Business Associate,G2,Pune,Replacement,EMP28872,Non-Critical,EMP39763,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5469,46168,Intercity,Sales,Senior Sales Executive,G3,Bengaluru,New,,Non-Critical,EMP18636,Tanvi Joshi,45,Closed - Joined,720000,Breached
+REQ_5472,46140,Intracity,Operations,Senior Business Associate,G2,Chennai,New,,Non-Critical,EMP21540,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5474,46285,Central,Engineering,Software Engineer II,G4,Bengaluru HO,New,,Non-Critical,EMP37986,Vikram Nair,45,Open,1239000,Open - Within SLA
+REQ_5477,46217,Geo Expansion,Sales,Senior Sales Executive,G3,Delhi NCR,Replacement,EMP15158,Non-Critical,EMP28230,Rhea Kapoor,45,Offer Accepted,720000,Within SLA
+REQ_5480,46289,Central,Product,Senior Product Manager,G6,Bengaluru HO,New,,Critical,EMP10681,Vikram Nair,60,Offer Accepted,2754000,Within SLA
+REQ_5481,46243,Geo Expansion,Customer Support,Senior Support Associate,G2,Bengaluru,Replacement,EMP35451,Non-Critical,EMP31354,Rhea Kapoor,30,Closed - Joined,504000,Breached
+REQ_5484,46204,Intracity,Sales,Senior Manager - Sales,G6,Bengaluru HO,Replacement,EMP06100,Non-Critical,EMP31067,Vikram Nair,60,Offer Accepted,2040000,Breached
+REQ_5485,46148,Central,Engineering,Staff Engineer,G6,Bengaluru HO,Replacement,EMP07473,Critical,EMP12916,Divya Menon,60,Closed - Joined,2479000,Within SLA
+REQ_5487,46259,Central,Engineering,Software Engineer II,G4,Bengaluru HO,New,,Non-Critical,EMP31494,Divya Menon,45,Offer Accepted,1239000,Breached
+REQ_5488,46211,Intracity,Sales,Manager - Sales,G5,Chennai,New,,Non-Critical,EMP39892,Imran Sheikh,45,Closed - Joined,1440000,Within SLA
+REQ_5490,46198,Intercity,Category & Supply,Senior Category Manager,G6,Bengaluru HO,New,,Non-Critical,EMP23332,Vikram Nair,60,Closed - Joined,2040000,Within SLA
+REQ_5491,46232,Intercity,Operations,Business Associate,G1,Ahmedabad,Replacement,EMP38470,#N/A,EMP37610,Rhea Kapoor,30,closed - joined,384000,Within SLA
+REQ_5493,46125,Central,Data & Analytics,Data Scientist,G5,Bengaluru HO,New,,Non-Critical,EMP33961,Rhea Kapoor,45,Closed - Joined,1944000,Within SLA
+REQ_5495,17/08/2026,Enterprise,Category & Supply,Senior Supply Executive,G3,Delhi NCR,New,,Non-Critical,EMP34516,Imran Sheikh,45,Hold,720000,NA
+REQ_5497,46163,Intercity,Operations,Senior Business Associate,G2,Pune,New,,Non-Critical,EMP12361,Karan Bhat,30,Closed - Joined,504000,Within SLA
+REQ_5499,46196,Intracity,Customer Support,Senior Support Associate,G2,Delhi NCR,New,,Non-Critical,EMP11961,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5502,46224,Intercity,Customer Support,Support Specialist,G3,Mumbai,Replacement,EMP36423,Non-Critical,EMP29110,Karan Bhat,45,On Hold,720000,NA
+REQ_5504,46250,Packers & Movers,Customer Support,Senior Support Associate,G2,Hyderabad,New,,Non-Critical,EMP38545,Karan Bhat,30,Closed - Joined,504000,Within SLA
+REQ_5507,46273,Packers & Movers,Customer Support,Trainee Business Associate,TBA,Mumbai,New,,Non-Critical,EMP11841,Rhea,30,Offer Accepted,312000,Within SLA
+REQ_5509,46199,Intercity,Operations,Trainee Business Associate,TBA,Jaipur,Replacement,EMP30505,Non-Critical,EMP13816,Rhea Kapoor,30,Open,312000,Open - Breached
+REQ_5510,46171,Intercity,Category & Supply,Senior Supply Executive,G3,Jaipur,Replacement,EMP17958,Non-Critical,EMP10897,Karan Bhat,45,Closed - Joined,720000,Within SLA
+REQ_5512,46228,Central,Engineering,Senior Software Engineer,G5,Bengaluru HO,Replacement,EMP19594,Non-Critical,EMP13702,Vikram Nair,45,Closed - Joined,1750000,Within SLA
+REQ_5514,46143,Geo Expansion,Operations,Operations Executive,G3,Hyderabad,New,,Non-Critical,EMP36692,Divya Menon,45,Closed - Joined,720000,Breached
+REQ_5516,46275,Central,Engineering,Senior Software Engineer,G5,Bengaluru HO,Replacement,EMP20058,Non-Critical,EMP37986,Divya Menon,45,Open,1750000,Open - Breached
+REQ_5519,46157,Enterprise,Operations,Trainee Business Associate,TBA,Mumbai,New,,,EMP27214,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5522,46241,Intracity,Sales,Assistant Manager - Sales,G4,Kolkata,New,,Non-Critical,EMP39892,Tanvi Joshi,45,Offer Accepted,1020000,Within SLA
+REQ_5523,46191,Packers & Movers,Customer Support,Trainee Business Associate,TBA,Mumbai,New,,Non-Critical,EMP38545,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5524,46273,Intracity,Category & Supply,Senior Category Manager,G6,Bengaluru HO,Replacement,EMP39657,Non-Critical,EMP23332,Arnav G,60,On Hold,2040000,NA
+REQ_5526,46169,Central,Engineering,Senior Software Engineer,G5,Bengaluru HO,Replacement,EMP02753,Non-Critical,EMP14965,Meghna,45,Open,1750000,Open - Breached
+REQ_5529,46189,Packers & Movers,Customer Support,Senior Support Associate,G2,Lucknow,Replacement,EMP16120,Non-Critical,EMP24945,Rhea Kapoor,30,closed - joined,504000,Within SLA
+REQ_5532,46119,Packers & Movers,Category & Supply,Category Manager,G5,Ahmedabad,Replacement,EMP08507,Non-Critical,EMP17656,Imran Sheikh,45,Closed - Joined,1440000,Breached
+REQ_5535,46279,Intercity,Customer Support,Support Specialist,G3,Kolkata,New,,Non-Critical,EMP29110,Tanvi Joshi,45,Offer Accepted,720000,Within SLA
+REQ_5538,46286,Intracity,Operations,Business Associate,G1,Chennai,New,,Non-Critical,EMP25770,Karan Bhat,30,Closed - Joined,384000,Within SLA
+REQ_5541,46203,P&M,Operations,Operations Executive,G3,Mumbai,New,,Non-Critical,EMP14467,Divya Menon,45,Closed - Joined,720000,Within SLA
+REQ_5542,46204,Geo Expansion,Operations,Senior Business Associate,G2,Mumbai,New,,Non-Critical,EMP36692,Rhea Kapoor,30,Open,504000,Open - Breached
+REQ_5545,46117,Intercity,Operations,Trainee Business Associate,TBA,Bengaluru,New,,Non-Critical,EMP12361,Tanvi Joshi,30,Closed - Joined,312000,Within SLA
+REQ_5547,46285,Intracity,Operations,Trainee Business Associate,TBA,Chennai,Replacement,EMP39387,Non-Critical,EMP38654,Karan Bhat,30,Closed - Joined,312000,Within SLA
+REQ_5550,46309,Intracity,Operations,Operations Executive,G3,Hyderabad,Replacement,EMP33877,Non-Critical,EMP10289,Vikram Nair,45,Open,720000,Open - Within SLA
+REQ_5551,46288,Central,Engineering,Software Engineer II,G4,Bengaluru HO,New,,Non-Critical,EMP13169,Divya Menon,45,Open,1239000,Open - Within SLA
+REQ_5554,46304,Intracity,Customer Support,Senior Support Associate,G2,Mumbai,New,,Non-Critical,EMP26194,Rhea Kapoor,30,Open,504000,Open - Within SLA
+REQ_5555,46125,Central,Engineering,Software Engineer I,G3,Bengaluru HO,New,,Non-Critical,EMP10639,Meghna Rao,45,Closed - Joined,972000,Breached
+REQ_5556,46243,Central,Engineering,Engineering Manager,G7,Bengaluru HO,New,,Critical,EMP12916,Meghna Rao,60,Offer accepted,3888000,Breached
+REQ_5557,46218,Enterprise,Operations,Operations Executive,G3,Delhi NCR,New,,Non-Critical,EMP27214,Karan Bhat,45,Closed - Joined,720000,Within SLA
+REQ_5560,46217,Intra City,Operations,Operations Executive,G3,Ahmedabad,New,,Non-Critical,EMP11593,Imran Sheikh,45,Open,720000,Open - Breached
+REQ_5561,46173,Intercity,Operations,Operations Executive,G3,Pune,Replacement,EMP37590,Non-Critical,EMP20887,Tanvi Joshi,45,Closed - Joined,720000,Breached
+REQ_5564,46274,Intercity,Category & Supply,Senior Supply Executive,G3,Delhi NCR,New,,Non-Critical,EMP17001,Rhea Kapoor,45,Offer Accepted,720000,Within SLA
+REQ_5566,46170,Geo Expansion,Sales,Senior Sales Executive,G3,Kolkata,Replacement,EMP05703,Non-Critical,EMP21078,Tanvi Joshi,45,Closed - Joined,720000,Within SLA
+REQ_5567,46226,Enterprise,Operations,Assistant Manager - Operations,G4,Ahmedabad,Replacement,EMP38021,Non-Critical,EMP27514,Rhea Kapoor,45,Offer Accepted,1020000,Breached
+REQ_5568,46143,Intracity,Category & Supply,Senior Supply Executive,G3,Hyderabad,Replacement,EMP02061,Non-Critical,EMP38350,Imran Sheikh,45,Closed - Joined,720000,Breached
+REQ_5571,46207,Intercity,Operations,Manager - Operations,G5,Lucknow,New,,Non-Critical,EMP33620,Rhea Kapoor,45,Offer Accepted,1440000,Within SLA
+REQ_5574,46304,Central,Engineering,Staff Engineer,G6,Bengaluru HO,New,,Critical,EMP12916,Vikram Nair,60,Open,2479000,Open - Within SLA
+REQ_5575,46118,Intracity,Sales,Sales Executive,G2,Delhi NCR,Replacement,EMP04448,Non-Critical,EMP23093,Imran Sheikh,30,Closed - Joined,504000,Within SLA
+REQ_5578,46211,Intracity,Operations,Senior Business Associate,G2,Hyderabad,New,,Non-Critical,EMP27484,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5579,46164,Central,People & Culture,HR Generalist,G3,Bengaluru HO,Replacement,EMP05797,Non-Critical,EMP34461,Imran Sheikh,45,Closed - Joined,720000,Within SLA
+REQ_5582,46209,Geo Expansion,Operations,Senior Business Associate,G2,Pune,Replacement,EMP28858,Non-Critical,EMP24611,Imran Sheikh,30,Open,504000,Open - Breached
+REQ_5584,46273,Central,Engineering,Software Engineer I,G3,Bengaluru HO,New,,Non-Critical,EMP13169,Arnav G,45,Offer Accepted,972000,Breached
+REQ_5586,46129,Intercity,Category & Supply,Senior Supply Executive,G3,Delhi NCR,Replacement,EMP02217,Non-Critical,EMP27562,Divya Menon,45,Closed - Joined,720000,Within SLA
+REQ_5588,46117,Intercity,Operations,Trainee Business Associate,TBA,Chennai,New,,Non-Critical,EMP22877,Rhea Kapoor,30,Joined,312000,Within SLA
+REQ_5590,46188,Intercity,Operations,Trainee Business Associate,TBA,Hyderabad,New,,Non-Critical,EMP37610,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5591,46115,Geo Expansion,Operations,Business Associate,G1,Mumbai,New,,Non-Critical,EMP24611,Rhea Kapoor,30,Closed - Joined,384000,Within SLA
+REQ_5594,46173,Intracity,Sales,Sales Associate,G1,Pune,New,,Non-Critical,EMP23746,Tanvi Joshi,30,Closed - Joined,384000,Within SLA
+REQ_5595,46207,Intracity,Category & Supply,Senior Supply Executive,G3,Ahmedabad,Replacement,EMP15885,Non-Critical,EMP21230,Rhea Kapoor,45,Closed - Joined,720000,Within SLA
+REQ_5597,46302,Enterprise,Operations,Business Associate,G1,Chennai,New,,Non-Critical,EMP27514,Tanvi Joshi,30,Offer Accepted,384000,Within SLA
+REQ_5600,46208,Enterprise,Operations,Business Associate,G1,Ahmedabad,Replacement,EMP19418,Non-Critical,EMP27514,Tanvi Joshi,30,Closed - Joined,384000,Within SLA
+REQ_5601,29/04/2026,Packers & Movers,Operations,Business Associate,G1,Mumbai,New,,Non-Critical,EMP17984,Rhea Kapoor,30,open,384000,Open - Breached
+REQ_5603,46180,Enterprise,Category & Supply,Senior Supply Executive,G3,Bengaluru,Replacement,EMP37743,Non-Critical,EMP14919,Rhea Kapoor,45,Open,720000,Open - Breached
+REQ_5605,46207,Central,Finance,Finance Analyst,G3,Bengaluru HO,New,,Non-Critical,EMP20279,Divya Menon,45,Open,720000,Open - Breached
+REQ_5606,46181,Intracity,Operations,Business Associate,G1,Pune,New,,Non-Critical,EMP27484,Rhea Kapoor,30,Closed - Joined,384000,Breached
+REQ_5607,46179,Intracity,Operations,Associate Director - Operations,G7,Bengaluru HO,Replacement,EMP11198,Non-Critical,EMP20813,Divya Menon,60,Offer Accepted,2880000,Within SLA
+REQ_5608,31/08/2026,Intracity,Operations,Trainee Business Associate,TBA,Chennai,Replacement,EMP25431,Non-Critical,EMP38016,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5609,25/08/2026,Intracity,Category & Supply,Senior Supply Executive,G3,Kolkata,Replacement,EMP31882,,EMP35672,Imran Sheikh,45,Offer Accepted,720000,Breached
+REQ_5612,46133,Intercity,Operations,Business Associate,G1,Kolkata,Replacement,EMP03283,Non-Critical,EMP20336,Tanvi Joshi,30,Closed - Joined,384000,Within SLA
+REQ_5614,46231,Central,Legal & Compliance,Senior Legal Manager,G6,Bengaluru HO,Replacement,EMP21091,Non-Critical,EMP34590,Vikram Nair,60,Offer Accepted,2040000,Breached
+REQ_5616,46296,Central,Design & Research,Design Manager,G7,Bengaluru HO,New,,Critical,EMP27849,Rhea Kapoor,60,Open,3888000,Open - Within SLA
+REQ_5619,46152,Enterprise,Customer Support,Support Specialist,G3,Pune,Replacement,EMP13643,Non-Critical,EMP37979,Rhea Kapoor,45,Closed - Joined,720000,Breached
+REQ_5621,46303,Intracity,Operations,Business Associate,G1,Lucknow,Replacement,EMP21506,Non-Critical,EMP28133,Rhea Kapoor,30,Offer Accepted,384000,Within SLA
+REQ_5624,46162,central,Engineering,Staff Engineer,G6,Bengaluru HO,New,,Critical,EMP12916,Vikram Nair,60,Closed - Joined,2479000,Within SLA
+REQ_5627,46179,Geo Expansion,Operations,Operations Executive,G3,Ahmedabad,Replacement,EMP05901,Non-Critical,EMP23107,Karan Bhat,45,Closed - Joined,720000,Within SLA
+REQ_5630,46288,Packers & Movers,Operations,Trainee Business Associate,TBA,Kolkata,New,,Non-Critical,EMP26339,Rhea Kapoor,30,Open,312000,Open - Breached
+REQ_5632,46170,Packers & Movers,Operations,Business Associate,G1,Pune,New,,Non-Critical,EMP26339,Arnav Gupta,30,Closed - Joined,384000,Within SLA
+REQ_5635,46114,Intercity,Operations,Operations Executive,G3,Hyderabad,Replacement,EMP04018,Non-Critical,EMP14173,Imran Sheikh,45,Closed - Joined,720000,Within SLA
+REQ_5637,46259,Intracity,Sales,Senior Sales Executive,G3,Mumbai,Replacement,EMP15817,Non-Critical,EMP23523,Tanvi Joshi,45,Offer Accepted,720000,Breached
+REQ_5640,46130,Central,Data & Analytics,Data Analyst,G3,Bengaluru HO,Replacement,EMP05458,Non-Critical,EMP19317,Divya Menon,45,Open,972000,Open - Breached
+REQ_5641,46237,Intercity,Operations,Senior Business Associate,G2,Mumbai,New,,Non-Critical,EMP14173,Rhea Kapoor,30,Closed-Joined,504000,Within SLA
+REQ_5643,46220,Enterprise,Sales,Senior Sales Executive,G3,Hyderabad,New,,Non-Critical,EMP19035,Imran Sheikh,45,Closed - Joined,720000,Within SLA
+REQ_5644,46228,Enterprise,Customer Support,Team Lead - Support,G4,Kolkata,Replacement,EMP25155,Non-Critical,EMP37979,Vikram Nair,45,Closed - Joined,1020000,Within SLA
+REQ_5647,46228,Packers & Movers,Operations,Operations Executive,G3,Kolkata,Replacement,EMP36157,Non-Critical,EMP14969,Imran Sheikh,45,Offer Accepted,720000,Within SLA
+REQ_5648,46306,Central,Finance,Associate Director - Finance,G7,Bengaluru HO,New,,Non-Critical,EMP17675,Divya Menon,60,Open,2880000,Open - Within SLA
+REQ_5649,46122,Intracity,Category & Supply,Category Manager,G5,Bengaluru,New,,Non-Critical,EMP21230,Tanvi Joshi,45,Closed - Joined,1440000,Within SLA
+REQ_5652,46168,Enterprise,Sales,Senior Sales Executive,G3,Delhi NCR,New,,Non-Critical,EMP17205,Rhea Kapoor,45,Joined,720000,Breached
+REQ_5653,46130,Central,Data & Analytics,Director - Analytics,G8,Bengaluru HO,Replacement,EMP01964,Critical,EMP36711,vikram nair,60,Open,5508000,Open - Breached
+REQ_5655,46278,Central,Data & Analytics,Data Scientist,G5,Bengaluru HO,Replacement,EMP15124,Non-Critical,EMP19317,Vikram Nair,45,Offer Accepted,1944000,Within SLA
+REQ_5656,46144,Geo Expansion,Operations,Operations Executive,G3,Kolkata,Replacement,EMP07347,Non-Critical,EMP22008,Tanvi Joshi,45,Closed-Joined,720000,Within SLA
+REQ_5657,46160,Intracity,Customer Support,Support Specialist,G3,Delhi NCR,New,,Non-Critical,EMP11961,Tanvi Joshi,45,Closed - Joined,720000,Breached
+REQ_5658,46237,Central,Engineering,Staff Engineer,G6,Bengaluru HO,Replacement,EMP05180,Critical,EMP34332,Rhea Kapoor,60,Offer Accepted,2479000,Breached
+REQ_5659,46273,Enterprise,Customer Support,Trainee Business Associate,TBA,Hyderabad,New,,Non-Critical,EMP37979,Rhea Kapoor,30,closed - joined,312000,Within SLA
+REQ_5662,46173,Central,Engineering,Software Engineer II,G4,Bengaluru HO,New,,Non-Critical,EMP38022,Vikram Nair,45,Closed - Joined,1239000,Within SLA
+REQ_5663,46190,Intercity,Operations,Business Associate,G1,Bengaluru,New,,Non-Critical,EMP12361,Arnav Gupta,30,Closed - Joined,384000,Within SLA
+REQ_5666,46264,Geo Expansion,Sales,Senior Sales Executive,G3,Kolkata,New,,Non-Critical,EMP39028,Tanvi Joshi,45,Open,720000,Open - Breached
+REQ_5668,46229,Central,Data & Analytics,Analytics Manager,G7,Bengaluru HO,Replacement,EMP16376,Critical,EMP36711,Vikram Nair,60,Offer Accepted,3888000,Breached
+REQ_5670,46300,Geo Expansion,Sales,Sales Associate,G1,Delhi NCR,Replacement,EMP24153,Non-Critical,EMP35026,Karan Bhat,30,Offer Accepted,384000,Within SLA
+REQ_5672,46211,Central,Engineering,Staff Engineer,G6,Bengaluru HO,New,,Critical,EMP12916,Vikram Nair,60,Open,2479000,Open - Breached
+REQ_5675,46278,Central,Engineering,Software Engineer I,G3,Bengaluru HO,Replacement,EMP23774,Non-Critical,EMP19630,Vikram Nair,45,Offer Accepted,972000,Within SLA
+REQ_5678,46148,Intracity,Customer Support,Trainee Business Associate,TBA,Delhi NCR,New,,#N/A,EMP18568,Karan Bhat,30,Open,312000,Open - Breached
+REQ_5681,46165,Intracity,Customer Support,Support Associate,G1,Chennai,New,,Non-Critical,EMP15851,Imran S,30,Open,384000,Open - Breached
+REQ_5683,46154,Intercity,Customer Support,Trainee Business Associate,TBA,Ahmedabad,Replacement,EMP03006,Non-Critical,EMP30591,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5684,46173,Intracity,Sales,Senior Sales Executive,G3,Hyderabad,New,,Non-Critical,EMP39892,Imran Sheikh,45,Open,720000,Open - Breached
+REQ_5686,46120,Inter City,Operations,Trainee Business Associate,TBA,Chennai,Replacement,EMP08186,Non-Critical,EMP39763,Rhea Kapoor,30,Closed - Joined,312000,Within SLA
+REQ_5688,46244,Geo Expansion,Operations,Operations Executive,G3,Chennai,New,,Non-Critical,EMP36692,Rhea Kapoor,45,Offer accepted,720000,Within SLA
+REQ_5691,46223,Intercity,Category & Supply,Category Manager,G5,Delhi NCR,New,,Non-Critical,EMP27909,Rhea Kapoor,45,Closed - Joined,1440000,Within SLA
+REQ_5692,46269,Central,Product,Product Manager,G5,Bengaluru HO,Replacement,EMP03578,Non-Critical,EMP16341,Vikram Nair,45,Offer Accepted,1944000,Within SLA
+REQ_5694,46163,Enterprise,Operations,Senior Business Associate,G2,Jaipur,New,,Non-Critical,EMP16738,Rhea Kapoor,30,Closed - Joined,504000,Within SLA
+REQ_5695,46196,Central,Engineering,Staff Engineer,G6,Bengaluru HO,New,,Critical,EMP14084,Rhea Kapoor,60,Open,2479000,Open - Breached
+REQ_5697,46276,Intercity,Category & Supply,Senior Supply Executive,G3,Hyderabad,New,,Non-Critical,EMP10897,Imran Sheikh,45,Offer Accepted,720000,Breached

@@ -1,0 +1,11 @@
+issue,records,treatment
+Duplicate employee IDs,12,Keep most recent record updated timestamp
+Non-numeric CTC entries,113,Remove separators/currency; coerce invalid to missing
+Duplicate survey employee-wave pairs,28,Keep latest submitted valid response per employee-wave
+Invalid eNPS scores outside 0–10 or missing,32,Exclude invalid scores from eNPS denominator
+Survey employee IDs missing in HRMS,71,Retain for overall eNPS; segment fields unknown
+Duplicate requisition IDs,0,Keep first requisition; flag for audit
+Duplicate candidate IDs,22,Keep most advanced / last row
+Candidate references to missing requisitions,841,Exclude unmatched candidates from requisition-linked metrics; retain raw records
+Negative interview feedback intervals,1,Exclude negative intervals from feedback turnaround KPI
+Negative requisition-to-join intervals,0,Exclude negative intervals from time-to-fill
